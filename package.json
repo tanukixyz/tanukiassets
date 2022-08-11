@@ -1,0 +1,13 @@
+{
+  "name": "tanukiassets",
+  "version": "1.0",
+  "description": "tanuki public assets repository",
+  "license": "MIT",
+  "scripts": {
+    "pretty": "prettier --write ./"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^3.2.0",
+    "prettier": "^2.6.2"
+  }
+}
