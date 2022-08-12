@@ -4,6 +4,7 @@
   "description": "tanuki public assets repository",
   "license": "MIT",
   "scripts": {
+    "verify": "node scripts/verify.js",
     "pretty": "prettier --write ./"
   },
   "dependencies": {

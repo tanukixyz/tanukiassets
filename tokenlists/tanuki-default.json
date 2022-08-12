@@ -1,0 +1,262 @@
+{
+  "name": "Tanuki Default",
+  "version": 1,
+  "tokens": [
+    {
+      "name": "Aave",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "coingeckoId": "aave",
+      "addresses": {
+        "ethereum": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "polygon": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+        "fantom": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+        "avalanche": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+        "binance": "0xfb6115445bff7b52feb98650c87f44907e58f802"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/AAVE.png"
+    },
+    {
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "coingeckoId": "avalanche-2",
+      "addresses": {
+        "ethereum": "0x85f138bfee4ef8e540890cfb48f620571d67eda3",
+        "polygon": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+        "avalanche": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "binance": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+        "fantom": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/AVAX.png"
+    },
+    {
+      "name": "Basic Attention Token",
+      "symbol": "BAT",
+      "decimals": 18,
+      "coingeckoId": "basic-attention-token",
+      "addresses": {
+        "ethereum": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "polygon": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
+        "avalanche": "0x98443b96ea4b0858fdf3219cd13e98c7a4690588",
+        "binance": "0x101d82428437127bf1608f699cd651e6abf9766e"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/BAT.png"
+    },
+    {
+      "name": "Binance",
+      "symbol": "BNB",
+      "decimals": 18,
+      "coingeckoId": "binancecoin",
+      "addresses": {
+        "ethereum": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "polygon": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
+        "avalanche": "0x442f7f22b1ee2c842beaff52880d4573e9201158",
+        "binance": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "fantom": "0x27f26f00e1605903645bbabc0a73e35027dccd45"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/BNB.png"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "coingeckoId": "binance-usd",
+      "addresses": {
+        "ethereum": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+        "polygon": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
+        "avalanche": "0x19860ccb0a68fd4213ab9d8266f7bbf05a8dde98",
+        "binance": "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/BUSD.png"
+    },
+    {
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "coingeckoId": "chainlink",
+      "addresses": {
+        "ethereum": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "polygon": "0xb0897686c545045afc77cf20ec7a532e3120e0f1",
+        "binance": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+        "avalanche": "0x5947bb275c521040051d82396192181b413227a3",
+        "fantom": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/LINK.png"
+    },
+    {
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "coingeckoId": "compound-governance-token",
+      "addresses": {
+        "ethereum": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "polygon": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+        "avalanche": "0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437",
+        "binance": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/COMP.png"
+    },
+    {
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "decimals": 18,
+      "coingeckoId": "curve-dao-token",
+      "addresses": {
+        "ethereum": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "polygon": "0x172370d5cd63279efa6d502dab29171933a610af",
+        "avalanche": "0x249848beca43ac405b8102ec90dd5f22ca513c06",
+        "fantom": "0x1E4F97b9f9F913c46F1632781732927B9019C68b"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/CRV.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "coingeckoId": "dai",
+      "addresses": {
+        "ethereum": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "polygon": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "avalanche": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+        "binance": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+        "fantom": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/DAI.png"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "coingeckoId": "ethereum",
+      "addresses": {
+        "ethereum": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "polygon": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "avalanche": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+        "binance": "0x4db5a66e937a9f4473fa95b1caf1d1e1d62e29ea",
+        "fantom": "0x74b23882a30290451A17c44f4F05243b6b58C76d"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/ETH.png"
+    },
+    {
+      "name": "Fantom",
+      "symbol": "FTM",
+      "decimals": 18,
+      "coingeckoId": "fantom",
+      "addresses": {
+        "ethereum": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+        "polygon": "0xc9c1c1c20b3658f8787cc2fd702267791f224ce1",
+        "binance": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+        "fantom": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/FTM.png"
+    },
+    {
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "decimals": 18,
+      "coingeckoId": "magic-internet-money",
+      "addresses": {
+        "ethereum": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+        "binance": "0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba",
+        "avalanche": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+        "fantom": "0x82f0b8b456c1a451378467398982d4834b6829c1"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/MIM.png"
+    },
+    {
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18,
+      "coingeckoId": "maker",
+      "addresses": {
+        "ethereum": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+        "polygon": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+        "binance": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
+        "avalanche": "0x88128fd4b259552a9a1d457f435a6527aab72d42"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/MKR.png"
+    },
+    {
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "coingeckoId": "matic-network",
+      "addresses": {
+        "ethereum": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "polygon": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "binance": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+        "avalanche": "0xf2f13f0b7008ab2fa4a2418f4ccc3684e49d20eb"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/MATIC.png"
+    },
+    {
+      "name": "Sushi",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "coingeckoId": "sushi",
+      "addresses": {
+        "ethereum": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "polygon": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+        "avalanche": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
+        "binance": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+        "fantom": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/SUSHI.png"
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "coingeckoId": "tether",
+      "addresses": {
+        "ethereum": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "polygon": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "avalanche": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+        "binance": "0x55d398326f99059ff775485246999027b3197955",
+        "fantom": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/USDT.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "coingeckoId": "usd-coin",
+      "addresses": {
+        "ethereum": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "polygon": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "avalanche": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+        "binance": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "fantom": "0x04068da6c83afcfa0e13ba15a6696662335d5b75"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/USDC.png"
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "coingeckoId": "uniswap",
+      "addresses": {
+        "ethereum": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "polygon": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+        "avalanche": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+        "binance": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/UNI.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "coingeckoId": "bitcoin",
+      "addresses": {
+        "ethereum": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "polygon": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+        "avalanche": "0x50b7545627a5162f82a992c33b87adc75187b218",
+        "fantom": "0x321162Cd933E2Be498Cd2267a90534A804051b11"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/WBTC.png"
+    }
+  ]
+}
