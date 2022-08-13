@@ -2,6 +2,19 @@
   "name": "tanuki",
   "tokens": [
     {
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "coingeckoId": "0x",
+      "addresses": {
+        "ethereum": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+        "polygon": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
+        "arbitrum": "0xBD591Bd4DdB64b77B5f76Eab8f03d02519235Ae2",
+        "avalanche": "0x596fa47043f99a4e0f122243b841e55375cde0d2"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/ZRX.png"
+    },
+    {
       "name": "1inch",
       "symbol": "1INCH",
       "decimals": 18,
@@ -193,6 +206,17 @@
         "binance": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8"
       },
       "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/COMP.png"
+    },
+    {
+      "name": "Cronos",
+      "symbol": "CRO",
+      "decimals": 8,
+      "coingeckoId": "crypto-com-chain",
+      "addresses": {
+        "ethereum": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+        "polygon": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C"
+      },
+      "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/tokens/CRO.png"
     },
     {
       "name": "Curve DAO Token",
