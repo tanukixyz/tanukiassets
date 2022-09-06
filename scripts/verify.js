@@ -5,7 +5,31 @@ const fs = require('fs');
 const tokenListsPath = './tokenlists';
 const tanukiList = 'tanuki-default.json';
 
+function verifyProjectList() {
+  const projectList = JSON.parse(fs.readFileSync('./data/projects.json').toString());
+
+  for (const [name, project] of Object.entries(projectList)) {
+    console.assert(project.name === name, 'project key must be name');
+    console.assert(project.name !== undefined, 'project must has a name');
+    console.assert(project.displayName !== undefined, 'project must has a display name');
+    console.assert(
+      project.category !== undefined && ['exchange', 'lending', 'corsschain', 'others'].indexOf(project.category) > -1,
+      'invalid project category'
+    );
+  }
+
+  const ordered = Object.keys(projectList)
+    .sort()
+    .reduce((obj, key) => {
+      obj[key] = projectList[key];
+      return obj;
+    }, {});
+  fs.writeFileSync('./data/projects.json', JSON.stringify(ordered).toString());
+}
+
 (async function () {
+  verifyProjectList();
+
   // verify and sort token lists data
   const lists = fs.readdirSync(tokenListsPath);
 
