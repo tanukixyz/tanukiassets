@@ -13,7 +13,8 @@ function verifyProjectList() {
     console.assert(project.name !== undefined, 'project must has a name');
     console.assert(project.displayName !== undefined, 'project must has a display name');
     console.assert(
-      project.category !== undefined && ['exchange', 'lending', 'corsschain', 'others'].indexOf(project.category) > -1,
+      project.category !== undefined &&
+        ['dex', 'lending', 'borrowing', 'corsschain', 'others'].indexOf(project.category) > -1,
       'invalid project category'
     );
   }

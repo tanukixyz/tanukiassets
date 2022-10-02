@@ -6,6 +6,27 @@
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/aave.png",
     "website": "aave.com"
   },
+  "aave-v1": {
+    "name": "aave-v1",
+    "displayName": "AAVE v1",
+    "category": "lending",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/aave.png",
+    "website": "aave.com"
+  },
+  "aave-v2": {
+    "name": "aave-v2",
+    "displayName": "AAVE v2",
+    "category": "lending",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/aave.png",
+    "website": "aave.com"
+  },
+  "aave-v3": {
+    "name": "aave-v3",
+    "displayName": "AAVE v3",
+    "category": "lending",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/aave.png",
+    "website": "aave.com"
+  },
   "abracadabra": {
     "name": "abracadabra",
     "displayName": "Abracadabra Money",
@@ -23,7 +44,7 @@
   "apeswap": {
     "name": "apeswap",
     "displayName": "ApeSwap",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/apeswap.png",
     "website": "https://apeswap.finance"
   },
@@ -37,14 +58,14 @@
   "babyswap": {
     "name": "babyswap",
     "displayName": "BabySwap",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/babyswap.png",
     "website": "https://babyswap.finance"
   },
   "balancer": {
     "name": "balancer",
     "displayName": "Balancer",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/balancer.png",
     "website": "https://balancer.fi/"
   },
@@ -58,7 +79,7 @@
   "beets": {
     "name": "beets",
     "displayName": "Beethovenx",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/beets.png",
     "website": "https://beets.fi"
   },
@@ -72,7 +93,7 @@
   "biswap": {
     "name": "biswap",
     "displayName": "BiSwap",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/biswap.png",
     "website": "https://biswap.org"
   },
@@ -107,7 +128,7 @@
   "curve": {
     "name": "curve",
     "displayName": "Curve Fi",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/curve.png",
     "website": "https://curve.fi"
   },
@@ -128,7 +149,7 @@
   "katana": {
     "name": "katana",
     "displayName": "Katana",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/katana.png",
     "website": "https://katana.roninchain.com"
   },
@@ -142,28 +163,28 @@
   "mmfinance": {
     "name": "mmfinance",
     "displayName": "MM Finance",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/mmfinance.png",
     "website": "https://mm.finance/"
   },
   "pancakeswap": {
     "name": "pancakeswap",
     "displayName": "PancakeSwap",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/pancakeswap.png",
     "website": "https://pancakeswap.finance"
   },
   "pangolin": {
     "name": "pangolin",
     "displayName": "Pangolin",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/pangolin.png",
     "website": "https://pangolin.exchange/"
   },
   "quickswap": {
     "name": "quickswap",
     "displayName": "QuickSwap",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/quickswap.png",
     "website": "https://quickswap.exchange"
   },
@@ -184,35 +205,63 @@
   "spookyswap": {
     "name": "spookyswap",
     "displayName": "SpookySwap",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/spookyswap.png",
     "website": "https://spooky.fi"
   },
   "stargate": {
     "name": "stargate",
     "displayName": "Stargate",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/stargate.png",
     "website": "https://stargate.finance"
   },
   "sushiswap": {
     "name": "sushiswap",
     "displayName": "SushiSwap",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/sushiswap.png",
     "website": "https://sushi.com"
   },
   "traderjoe": {
     "name": "traderjoe",
     "displayName": "TraderJoe",
-    "category": "exchange",
+    "category": "dex",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/traderjoe.png",
+    "website": "https://traderjoexyz.com"
+  },
+  "traderjoe-lending": {
+    "name": "traderjoe-lending",
+    "displayName": "TraderJoe Lending",
+    "category": "dex",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/traderjoe.png",
+    "website": "https://traderjoexyz.com"
+  },
+  "traderjoe-dex": {
+    "name": "traderjoe-dex",
+    "displayName": "TraderJoe Dex",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/traderjoe.png",
     "website": "https://traderjoexyz.com"
   },
   "uniswap": {
     "name": "uniswap",
     "displayName": "Uniswap",
-    "category": "exchange",
+    "category": "dex",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/uniswap.png",
+    "website": "https://uniswap.org/"
+  },
+  "uniswap-v2": {
+    "name": "uniswap-v2",
+    "displayName": "Uniswap v2",
+    "category": "dex",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/uniswap.png",
+    "website": "https://uniswap.org/"
+  },
+  "uniswap-v3": {
+    "name": "uniswap-v3",
+    "displayName": "Uniswap v3",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/uniswap.png",
     "website": "https://uniswap.org/"
   },
@@ -226,14 +275,14 @@
   "vvsfinance": {
     "name": "vvsfinance",
     "displayName": "VVS Finance",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/vvsfinance.svg",
     "website": "https://vvs.finance/"
   },
   "wombat": {
     "name": "wombat",
     "displayName": "Wombat",
-    "category": "exchange",
+    "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/wombat.png",
     "website": "https://wombat.exchange"
   }
