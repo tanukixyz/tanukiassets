@@ -55,9 +55,16 @@
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/babyswap.png",
     "website": "https://babyswap.finance"
   },
+  "balancer-v1": {
+    "name": "balancer-v1",
+    "displayName": "Balancer v1",
+    "category": "dex",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/balancer.png",
+    "website": "https://balancer.fi/"
+  },
   "balancer-v2": {
-    "name": "balancer",
-    "displayName": "Balancer",
+    "name": "balancer-v2",
+    "displayName": "Balancer v2",
     "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/balancer.png",
     "website": "https://balancer.fi/"
@@ -216,16 +223,16 @@
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/sushiswap.png",
     "website": "https://sushi.com"
   },
-  "traderjoe-lending": {
-    "name": "traderjoe-lending",
-    "displayName": "TraderJoe Lending",
+  "traderjoe-dex": {
+    "name": "traderjoe-dex",
+    "displayName": "TraderJoe Dex",
     "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/traderjoe.png",
     "website": "https://traderjoexyz.com"
   },
-  "traderjoe-dex": {
-    "name": "traderjoe-dex",
-    "displayName": "TraderJoe Dex",
+  "traderjoe-lending": {
+    "name": "traderjoe-lending",
+    "displayName": "TraderJoe Lending",
     "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/traderjoe.png",
     "website": "https://traderjoexyz.com"
