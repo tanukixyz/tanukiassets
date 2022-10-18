@@ -167,6 +167,13 @@
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/liquity.png",
     "website": "https://www.liquity.org/"
   },
+  "looksrare": {
+    "name": "looksrare",
+    "displayName": "Looksrare",
+    "category": "marketplace",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/looksrare.png",
+    "website": "https://looksrare.org/"
+  },
   "mmfinance": {
     "name": "mmfinance",
     "displayName": "MM Finance",
