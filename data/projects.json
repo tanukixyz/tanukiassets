@@ -153,6 +153,13 @@
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/katana.png",
     "website": "https://katana.roninchain.com"
   },
+  "lido": {
+    "name": "lido",
+    "displayName": "Lido",
+    "category": "staking",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/lido.png",
+    "website": "https://lido.fi"
+  },
   "liquity": {
     "name": "liquity",
     "displayName": "Liquity",
