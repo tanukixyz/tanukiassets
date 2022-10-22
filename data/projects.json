@@ -4,28 +4,12 @@
     "displayName": "AAVE",
     "category": "lending",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/aave.png",
-    "website": "aave.com"
-  },
-  "aave-v1": {
-    "name": "aave-v1",
-    "displayName": "AAVE v1",
-    "category": "lending",
-    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/aave.png",
-    "website": "aave.com"
-  },
-  "aave-v2": {
-    "name": "aave-v2",
-    "displayName": "AAVE v2",
-    "category": "lending",
-    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/aave.png",
-    "website": "aave.com"
-  },
-  "aave-v3": {
-    "name": "aave-v3",
-    "displayName": "AAVE v3",
-    "category": "lending",
-    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/aave.png",
-    "website": "aave.com"
+    "website": "aave.com",
+    "versions": [
+      { "name": "aave-v1", "displayName": "AAVE v1", "category": "lending" },
+      { "name": "aave-v2", "displayName": "AAVE v2", "category": "lending" },
+      { "name": "aave-v3", "displayName": "AAVE v3", "category": "lending" }
+    ]
   },
   "abracadabra": {
     "name": "abracadabra",
@@ -67,21 +51,11 @@
     "displayName": "Balancer",
     "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/balancer.png",
-    "website": "https://balancer.fi/"
-  },
-  "balancer-v1": {
-    "name": "balancer-v1",
-    "displayName": "Balancer v1",
-    "category": "dex",
-    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/balancer.png",
-    "website": "https://balancer.fi/"
-  },
-  "balancer-v2": {
-    "name": "balancer-v2",
-    "displayName": "Balancer v2",
-    "category": "dex",
-    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/balancer.png",
-    "website": "https://balancer.fi/"
+    "website": "https://balancer.fi/",
+    "versions": [
+      { "name": "balancer-v1", "displayName": "Balancer v1", "category": "dex" },
+      { "name": "balancer-v2", "displayName": "Balancer v2", "category": "dex" }
+    ]
   },
   "bastion": {
     "name": "bastion",
@@ -116,14 +90,11 @@
     "displayName": "Compound",
     "category": "lending",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/compound.png",
-    "website": "https://compound.finance"
-  },
-  "compound-v3": {
-    "name": "compound-v3",
-    "displayName": "Compound III",
-    "category": "lending",
-    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/compound.png",
-    "website": "https://compound.finance"
+    "website": "https://compound.finance",
+    "version": [
+      { "name": "compound", "displayName": "Compound", "category": "lending" },
+      { "name": "compound-v3", "displayName": "Compound III", "category": "lending" }
+    ]
   },
   "convex": {
     "name": "convex",
@@ -256,42 +227,22 @@
     "displayName": "TraderJoe",
     "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/traderjoe.png",
-    "website": "https://traderjoexyz.com"
-  },
-  "traderjoe-dex": {
-    "name": "traderjoe-dex",
-    "displayName": "TraderJoe Dex",
-    "category": "dex",
-    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/traderjoe.png",
-    "website": "https://traderjoexyz.com"
-  },
-  "traderjoe-lending": {
-    "name": "traderjoe-lending",
-    "displayName": "TraderJoe Lending",
-    "category": "dex",
-    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/traderjoe.png",
-    "website": "https://traderjoexyz.com"
+    "website": "https://traderjoexyz.com",
+    "version": [
+      { "name": "traderjoe-dex", "displayName": "TraderJoe Dex", "category": "dex" },
+      { "name": "traderjoe-lending", "displayName": "TraderJoe Lending", "category": "lending" }
+    ]
   },
   "uniswap": {
     "name": "uniswap",
     "displayName": "Uniswap",
     "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/uniswap.png",
-    "website": "https://uniswap.org/"
-  },
-  "uniswap-v2": {
-    "name": "uniswap-v2",
-    "displayName": "Uniswap v2",
-    "category": "dex",
-    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/uniswap.png",
-    "website": "https://uniswap.org/"
-  },
-  "uniswap-v3": {
-    "name": "uniswap-v3",
-    "displayName": "Uniswap v3",
-    "category": "dex",
-    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/uniswap.png",
-    "website": "https://uniswap.org/"
+    "website": "https://uniswap.org/",
+    "versions": [
+      { "name": "uniswap-v2", "displayName": "Uniswap v2", "category": "dex" },
+      { "name": "uniswap-v3", "displayName": "Uniswap v3", "category": "dex" }
+    ]
   },
   "venus": {
     "name": "venus",
