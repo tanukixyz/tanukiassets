@@ -251,6 +251,13 @@
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/sushiswap.png",
     "website": "https://sushi.com"
   },
+  "traderjoe": {
+    "name": "traderjoe",
+    "displayName": "TraderJoe",
+    "category": "dex",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/traderjoe.png",
+    "website": "https://traderjoexyz.com"
+  },
   "traderjoe-dex": {
     "name": "traderjoe-dex",
     "displayName": "TraderJoe Dex",
