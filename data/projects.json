@@ -1,4 +1,11 @@
 {
+  "aave": {
+    "name": "aave",
+    "displayName": "AAVE",
+    "category": "lending",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/aave.png",
+    "website": "aave.com"
+  },
   "aave-v1": {
     "name": "aave-v1",
     "displayName": "AAVE v1",
@@ -54,6 +61,13 @@
     "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/babyswap.png",
     "website": "https://babyswap.finance"
+  },
+  "balancer": {
+    "name": "balancer",
+    "displayName": "Balancer",
+    "category": "dex",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/balancer.png",
+    "website": "https://balancer.fi/"
   },
   "balancer-v1": {
     "name": "balancer-v1",
@@ -250,6 +264,13 @@
     "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/traderjoe.png",
     "website": "https://traderjoexyz.com"
+  },
+  "uniswap": {
+    "name": "uniswap",
+    "displayName": "Uniswap",
+    "category": "dex",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/uniswap.png",
+    "website": "https://uniswap.org/"
   },
   "uniswap-v2": {
     "name": "uniswap-v2",
