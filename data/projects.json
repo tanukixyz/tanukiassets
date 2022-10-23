@@ -91,7 +91,7 @@
     "category": "lending",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/compound.png",
     "website": "https://compound.finance",
-    "version": {
+    "versions": {
       "compound": { "name": "compound", "displayName": "Compound", "category": "lending" },
       "compound-v3": { "name": "compound-v3", "displayName": "Compound III", "category": "lending" }
     }
