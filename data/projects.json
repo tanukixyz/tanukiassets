@@ -4,12 +4,7 @@
     "displayName": "AAVE",
     "category": "lending",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/aave.png",
-    "website": "aave.com",
-    "versions": {
-      "aave-v1": { "name": "aave-v1", "displayName": "AAVE v1", "category": "lending" },
-      "aave-v2": { "name": "aave-v2", "displayName": "AAVE v2", "category": "lending" },
-      "aave-v3": { "name": "aave-v3", "displayName": "AAVE v3", "category": "lending" }
-    }
+    "website": "aave.com"
   },
   "abracadabra": {
     "name": "abracadabra",
@@ -51,11 +46,7 @@
     "displayName": "Balancer",
     "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/balancer.png",
-    "website": "https://balancer.fi/",
-    "versions": {
-      "balancer-v1": { "name": "balancer-v1", "displayName": "Balancer v1", "category": "dex" },
-      "balancer-v2": { "name": "balancer-v2", "displayName": "Balancer v2", "category": "dex" }
-    }
+    "website": "https://balancer.fi/"
   },
   "bastion": {
     "name": "bastion",
@@ -227,22 +218,14 @@
     "displayName": "TraderJoe",
     "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/traderjoe.png",
-    "website": "https://traderjoexyz.com",
-    "version": {
-      "traderjoe-dex": { "name": "traderjoe-dex", "displayName": "TraderJoe Dex", "category": "dex" },
-      "traderjoe-lending": { "name": "traderjoe-lending", "displayName": "TraderJoe Lending", "category": "lending" }
-    }
+    "website": "https://traderjoexyz.com"
   },
   "uniswap": {
     "name": "uniswap",
     "displayName": "Uniswap",
     "category": "dex",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/projects/uniswap.png",
-    "website": "https://uniswap.org/",
-    "versions": {
-      "uniswap-v2": { "name": "uniswap-v2", "displayName": "Uniswap v2", "category": "dex" },
-      "uniswap-v3": { "name": "uniswap-v3", "displayName": "Uniswap v3", "category": "dex" }
-    }
+    "website": "https://uniswap.org/"
   },
   "venus": {
     "name": "venus",
