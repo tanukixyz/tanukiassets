@@ -19,7 +19,7 @@
   },
   "binance": {
     "name": "binance",
-    "displayName": "Binance",
+    "displayName": "BNBChain",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/blockchains/binance.png",
     "website": "https://www.bnbchain.org/en"
   },
@@ -28,6 +28,12 @@
     "displayName": "Bitcoin",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/blockchains/bitcoin.png",
     "website": "https://bitcoin.org"
+  },
+  "cronos": {
+    "name": "cronos",
+    "displayName": "Cronos",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/blockchains/cronos.png",
+    "website": "https://cronos.org/"
   },
   "ethereum": {
     "name": "ethereum",
@@ -41,11 +47,41 @@
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/blockchains/fantom.png",
     "website": "https://fantom.foundation/"
   },
+  "gnosis": {
+    "name": "gnosis",
+    "displayName": "Gnosis",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/blockchains/gnosis.png",
+    "website": "https://www.gnosis.io/"
+  },
+  "harmony": {
+    "name": "harmony",
+    "displayName": "Harmony",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/blockchains/harmony.png",
+    "website": "https://www.harmony.one/"
+  },
+  "klaytn": {
+    "name": "klaytn",
+    "displayName": "Klaytn",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/blockchains/klaytn.png",
+    "website": "https://klaytn.foundation/"
+  },
+  "metis": {
+    "name": "metis",
+    "displayName": "Metis",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/blockchains/metis.png",
+    "website": "https://metis.io"
+  },
   "near": {
     "name": "near",
     "displayName": "Near",
     "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/blockchains/near.png",
     "website": "https://near.org/"
+  },
+  "optimism": {
+    "name": "optimism",
+    "displayName": "Optimism",
+    "logoURI": "https://raw.githubusercontent.com/tanukixyz/tanukiassets/main/images/blockchains/optimism.png",
+    "website": "https://www.optimism.io/"
   },
   "polygon": {
     "name": "polygon",

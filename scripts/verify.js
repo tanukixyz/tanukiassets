@@ -1,9 +1,8 @@
-// verify and format data
-
+/* eslint-disable */
 const fs = require('fs');
 
 function verifyProjectList() {
-  const projectList = JSON.parse(fs.readFileSync('./data/projects.json').toString());
+  const projectList = JSON.parse(fs.readFileSync('./configs/projects.json').toString());
 
   for (const [name, project] of Object.entries(projectList)) {
     console.assert(project.name === name, 'project key must be name');
@@ -22,11 +21,11 @@ function verifyProjectList() {
       obj[key] = projectList[key];
       return obj;
     }, {});
-  fs.writeFileSync('./data/projects.json', JSON.stringify(ordered).toString());
+  fs.writeFileSync('./configs/projects.json', JSON.stringify(ordered).toString());
 }
 
 function verifyBlockchainList() {
-  const blockchainList = JSON.parse(fs.readFileSync('./data/blockchains.json').toString());
+  const blockchainList = JSON.parse(fs.readFileSync('./configs/blockchains.json').toString());
 
   for (const [name, blockchain] of Object.entries(blockchainList)) {
     console.assert(blockchain.name === name, 'blockchain key must be name');
@@ -40,7 +39,7 @@ function verifyBlockchainList() {
       obj[key] = blockchainList[key];
       return obj;
     }, {});
-  fs.writeFileSync('./data/blockchains.json', JSON.stringify(ordered).toString());
+  fs.writeFileSync('./configs/blockchains.json', JSON.stringify(ordered).toString());
 }
 
 (async function () {
