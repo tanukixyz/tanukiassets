@@ -4,7 +4,7 @@
   "description": "tanuki public assets repository",
   "license": "MIT",
   "scripts": {
-    "pretty": "node scripts/verify.js &&  prettier --write ./"
+    "pretty": "prettier --write ./"
   },
   "dependencies": {
     "@trivago/prettier-plugin-sort-imports": "^3.2.0",
